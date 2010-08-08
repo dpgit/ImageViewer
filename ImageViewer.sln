@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+# SharpDevelop 3.2.0.5777
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageViewer", "ImageViewer\ImageViewer.csproj", "{EFF6B1BA-0CF8-4C75-AF29-8388BB54729C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageViewer.Plugins.Intefaces", "ImageViewer.Plugins.Intefaces\ImageViewer.Plugins.Intefaces.csproj", "{925C34D9-73B0-49A7-9D5D-2FC2A64C7F6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagePlugin", "ImagePlugin\ImagePlugin.csproj", "{505DD4BD-526F-472B-8E11-15EE0A7B2756}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFF6B1BA-0CF8-4C75-AF29-8388BB54729C}.Debug|x86.Build.0 = Debug|x86
+		{EFF6B1BA-0CF8-4C75-AF29-8388BB54729C}.Debug|x86.ActiveCfg = Debug|x86
+		{EFF6B1BA-0CF8-4C75-AF29-8388BB54729C}.Release|x86.Build.0 = Release|x86
+		{EFF6B1BA-0CF8-4C75-AF29-8388BB54729C}.Release|x86.ActiveCfg = Release|x86
+		{925C34D9-73B0-49A7-9D5D-2FC2A64C7F6F}.Debug|x86.Build.0 = Debug|x86
+		{925C34D9-73B0-49A7-9D5D-2FC2A64C7F6F}.Debug|x86.ActiveCfg = Debug|x86
+		{925C34D9-73B0-49A7-9D5D-2FC2A64C7F6F}.Release|x86.Build.0 = Release|x86
+		{925C34D9-73B0-49A7-9D5D-2FC2A64C7F6F}.Release|x86.ActiveCfg = Release|x86
+		{505DD4BD-526F-472B-8E11-15EE0A7B2756}.Debug|x86.Build.0 = Debug|x86
+		{505DD4BD-526F-472B-8E11-15EE0A7B2756}.Debug|x86.ActiveCfg = Debug|x86
+		{505DD4BD-526F-472B-8E11-15EE0A7B2756}.Release|x86.Build.0 = Release|x86
+		{505DD4BD-526F-472B-8E11-15EE0A7B2756}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
